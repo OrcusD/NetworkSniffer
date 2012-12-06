@@ -10,4 +10,4 @@ How to compile/run
 2.    Change to ”build” directory and run make.
 3.    Execute program with root privileges (Eg: sudo ./ NetworkSniffer).
 
-For a quick view, please take a look to at "Screenshot NetSniff.png"
+For a quick view, please take a look at "Screenshot NetSniff.png"
