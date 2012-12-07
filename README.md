@@ -1,7 +1,7 @@
 NetworkSniffer
 ==============
 
-This is a simple terminal (ncurses) network sniffer implemented for Linux. Implementation is in C/C++ and ncurses libraries.
+This is a terminal network sniffer(IPv4/IPv6) implementation for Linux. Is implemented in C/C++ and it use ncurses libraries for GUI terminal.
 
 How to compile/run
 ===================
