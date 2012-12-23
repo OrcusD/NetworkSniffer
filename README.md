@@ -11,3 +11,5 @@ How to compile/run
 3.    Execute program with root privileges (Eg: sudo ./ NetworkSniffer).
 
 For a quick view, please take a look at "Screenshot NetSniff.png"
+
+![Image Alt](https://github.com/csava/NetworkSniffer/raw/master/Screenshot%20NetSniff.png)
